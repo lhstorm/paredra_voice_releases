@@ -1,6 +1,11 @@
 # ParedraVoice
 
-Local, privacy-preserving system-wide dictation for macOS. Hold Right Option, speak, release — cleaned text appears at your cursor. All processing on-device via MLX. ParedraVoice is designed to be a local solution to clean up voice to text. It's a lot faster than typing (tested on M4 silicon). 
+Local, privacy-preserving system-wide dictation for macOS. Hold Right Option, speak, release — cleaned text appears at your cursor. All processing on-device via MLX. ParedraVoice is designed to be a local solution to clean up voice dictation and output well structured text. It's a lot faster than typing (tested on M4 silicon)! 
+
+- Easy to use: Hold down right option, say something and watch it print out the text
+- It removes filler words and improves sentence structure and grammar
+- It keeps a local record of your recent dictations (for quick copy and paste)
+- It supports a "user vocabulary" for your personal list of keywords or jaron 
 
 (Note: It currently has a 30s limit for audio transcription. This will be extended in future releases)
 
