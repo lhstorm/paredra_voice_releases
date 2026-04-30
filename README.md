@@ -24,7 +24,7 @@ You'll need to grant two permissions, once:
 1. **Microphone** — macOS prompts automatically on first launch. Approve.
 2. **Accessibility** — required for the global hotkey and text injection. Open **System Settings → Privacy & Security → Accessibility**, add `/Applications/ParedraVoice.app`, toggle it on.
 
-The first launch also downloads ~5 GB of model weights from HuggingFace (one-time). The menu-bar icon shows progress while this is happening.
+The first launch also downloads ~5 GB of model weights from HuggingFace (one-time). Depending on your internet connection this may take a while. The menu-bar icon shows progress while this is happening.
 
 ## Requirements
 
