@@ -5,7 +5,7 @@ Local, privacy-preserving system-wide dictation for macOS. Hold Right Option, sp
 - Easy to use: Hold down right option, say something and watch it print out the text
 - It removes filler words and improves sentence structure and grammar
 - It keeps a local record of your recent dictations (for quick copy and paste)
-- It supports an editable "user vocabulary" for your personal list of keywords or jaron 
+- It supports an editable "user vocabulary" for your personal list of keywords or jargon 
 
 (Note: It currently has a 30s limit for audio transcription. This will be extended in future releases)
 
